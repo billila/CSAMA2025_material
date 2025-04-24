@@ -5,7 +5,9 @@ project:
 website:
   title: "CSAMA 2025 - Materials"
   navbar:
-    left:
+    background: "#1a81c2"
+    foreground: "white"
+    right:
       - text: "Home"
         href: index.qmd
       - text: "Programme"
@@ -26,10 +28,17 @@ website:
         href: resources.qmd
   page-footer:
     center: |
-      [GitHub Repo](https://github.com/tuo-username/tuo-repo) • Built with [Quarto](https://quarto.org)
+      [GitHub Repo](https://github.com/billila/CSAMA2025_material) • Built with [Quarto](https://quarto.org) 
+  favicon: "images/CSAMA2025.png"
+  image: "images/CSAMA2025.png"
 
 format:
   html:
-    theme: cosmo
+    theme: 
+        light: cosmo
+        dark: [cosmo, theme-dark.scss]
+    css: styles.css
+    linkcolor: "#2A57A3"
+    toc-color: "#2A57A3"
     toc: true
     number-sections: true

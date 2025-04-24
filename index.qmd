@@ -13,6 +13,9 @@ This website contains materials for the **CSAMA 2025** workshop, covering key co
 
 You can find lecture notes, slides, code, and datasets in the corresponding sections.
 
+
+To run the code locally, make sure you have the required R packages installed. See the **Resources** page for more info.
+
 ```{.callout-note}
 To run the code locally, make sure you have the required R packages installed. See the **Resources** page for more info.
 ```

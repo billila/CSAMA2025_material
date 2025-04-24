@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "CSAMA 2025 - Workshop Materials",
     "section": "",
-    "text": "1 Welcome\nThis website contains materials for the CSAMA 2025 workshop, covering key concepts in:\n\nStatistical analysis of high-throughput data\nSingle-cell RNA sequencing\nHistopathological image analysis\n\nYou can find lecture notes, slides, code, and datasets in the corresponding sections.\nTo run the code locally, make sure you have the required R packages installed. See the **Resources** page for more info."
+    "text": "1 Welcome\nThis website contains materials for the CSAMA 2025 workshop, covering key concepts in:\n\nStatistical analysis of high-throughput data\nSingle-cell RNA sequencing\nHistopathological image analysis\n\nYou can find lecture notes, slides, code, and datasets in the corresponding sections.\nTo run the code locally, make sure you have the required R packages installed. See the Resources page for more info.\nTo run the code locally, make sure you have the required R packages installed. See the **Resources** page for more info."
   },
   {
     "objectID": "lectures/day2.html",
