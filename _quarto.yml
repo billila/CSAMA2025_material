@@ -8,14 +8,20 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "Programme"
+        href: programme.qmd
       - text: "Lectures"
         menu:
-          - href: lectures/01_intro.qmd
-            text: "Introduction"
-          - href: lectures/02_singlecell.qmd
-            text: "Single-cell Analysis"
-          - href: lectures/03_images.qmd
-            text: "Image Analysis"
+          - href: lectures/day1.qmd
+            text: "Day 1"
+          - href: lectures/day2.qmd
+            text: "Day 2"
+          - href: lectures/day3.qmd
+            text: "Day 3"
+          - href: lectures/day4.qmd
+            text: "Day 4"
+          - href: lectures/day5.qmd
+            text: "Day 5"
       - text: "Resources"
         href: resources.qmd
   page-footer:

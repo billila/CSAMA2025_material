@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "lectures/day5.html",
+    "href": "lectures/day5.html",
+    "title": "Day 5",
+    "section": "",
+    "text": "Materials coming soon."
+  },
+  {
+    "objectID": "lectures/day4.html",
+    "href": "lectures/day4.html",
+    "title": "Day 4",
+    "section": "",
+    "text": "Materials coming soon."
+  },
+  {
+    "objectID": "lectures/day3.html",
+    "href": "lectures/day3.html",
+    "title": "Day 3",
+    "section": "",
+    "text": "Materials coming soon."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CSAMA 2025 - Workshop Materials",
+    "section": "",
+    "text": "1 Welcome\nThis website contains materials for the CSAMA 2025 workshop, covering key concepts in:\n\nStatistical analysis of high-throughput data\nSingle-cell RNA sequencing\nHistopathological image analysis\n\nYou can find lecture notes, slides, code, and datasets in the corresponding sections.\nTo run the code locally, make sure you have the required R packages installed. See the **Resources** page for more info."
+  },
+  {
+    "objectID": "lectures/day2.html",
+    "href": "lectures/day2.html",
+    "title": "Day 2",
+    "section": "",
+    "text": "Materials coming soon."
+  },
+  {
+    "objectID": "lectures/day1.html",
+    "href": "lectures/day1.html",
+    "title": "Day 1",
+    "section": "",
+    "text": "Materials coming soon."
+  },
+  {
+    "objectID": "programme.html",
+    "href": "programme.html",
+    "title": "Schedule (subject to change)",
+    "section": "",
+    "text": "0.1 Schedule (subject to change)\n\n\n\n\n\n\n\n\nDate\nTime\nContent\n\n\n\n\nSun 6 July\n\n\n\n\n\n18:00–20:00\nRegistration & help desk\n\n\n\n18:00–20:00\nGet together with drinks\n\n\nMon 7 July\n\n\n\n\n\n08:30–09:15\nLecture: Introduction to Bioconductor\n\n\n\n09:15–10:00\nLecture: Transcriptomics: biology of transcription, quantification, batch effects and QC\n\n\n\n10:30–11:15\nLecture: Regression: power, identifiability, diagnostics\n\n\n\n11:15–12:00\nLecture: Statistical testing and multiple hypotheses\n\n\n\n14:00–15:30\nLab: R and Bioconductor basics\n\n\n\n16:00–17:00\nLab continuation\n\n\n\n17:00–17:30\nIntro to Project Groups (optional)\n\n\n\n20:10–22:00\nEvening session: Project groups and discussions\n\n\nTue 8 July\n\n\n\n\n\n08:30–09:15\nLecture: RNA-Seq differential expression\n\n\n\n09:15–10:00\nLecture: Single-cell RNA-seq: exploration, QC, low-dimensional embeddings\n\n\n\n10:30–11:15\nLecture: Dimension reduction: PCA and other embeddings\n\n\n\n11:15–12:00\nLecture: Distances, nearest-neighbour graphs and clustering\n\n\n\n14:00–15:30\nLab: End-to-end RNA-Seq workflow / Single-cell transcriptomics\n\n\n\n16:00–17:00\nLab continuation\n\n\n\n17:00–17:30\nFlashlight talks\n\n\n\n20:10–22:00\nEvening session: Drinks will be provided\n\n\nWed 9 July\n\n\n\n\n\n08:30–09:15\nLecture: Chromatin accessibility and ATAC-seq\n\n\n\n09:15–10:00\nLecture: Single cell RNA-seq advanced topics\n\n\n\n10:30–11:15\nLecture: Multi-condition single-cell RNA-seq differential analysis\n\n\n\n11:15–12:00\nLecture: Single cell advanced topics: multi-omics\n\n\n\n14:00–17:00\nSocial Programme: Excursion to the mountains and dinner\n\n\nThu 10 July\n\n\n\n\n\n08:30–09:15\nLecture: Mass spectrometry-based proteomics (incl. single-cell)\n\n\n\n09:15–10:00\nLecture: Mass spectrometry-based metabolomics\n\n\n\n10:30–12:00\nLab: Proteomics / Metabolomics\n\n\n\n14:00–14:45\nLecture: Spatial (transcript)omics\n\n\n\n14:45–15:15\nLecture: Bioconductor advanced topics: annotation resources\n\n\n\n15:30–17:00\nLabs: Multi-condition RNA-seq, Tidyomics, Spatial Transcriptomics, Trajectory analysis, iSEE, Image Data\n\n\n\n17:00–17:30\nFlashlight talks\n\n\n\n20:10–22:00\nEvening session: Drinks will be provided\n\n\nFri 11 July\n\n\n\n\n\n08:30–09:15\nLecture: Design of High Throughput Experiments and their Analysis\n\n\n\n09:15–10:00\nLecture: Machine learning (Robert Gentleman)\n\n\n\n10:30–12:00\nLecture: AI tools for biology\n\n\n\n12:00\nClosing remarks\n\n\n\n14:00–15:30\nGroup project presentations\n\n\n\n16:00–16:30\nCareer panel discussion"
+  }
+]
