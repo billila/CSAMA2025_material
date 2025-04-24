@@ -1,19 +1,29 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "CSAMA2025_material"
+  title: "CSAMA 2025 - Materials"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "Lectures"
+        menu:
+          - href: lectures/01_intro.qmd
+            text: "Introduction"
+          - href: lectures/02_singlecell.qmd
+            text: "Single-cell Analysis"
+          - href: lectures/03_images.qmd
+            text: "Image Analysis"
+      - text: "Resources"
+        href: resources.qmd
+  page-footer:
+    center: |
+      [GitHub Repo](https://github.com/tuo-username/tuo-repo) • Built with [Quarto](https://quarto.org)
 
 format:
   html:
     theme: cosmo
-    css: styles.css
     toc: true
-
-editor: visual
-
+    number-sections: true

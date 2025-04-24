@@ -1,11 +1,17 @@
 ---
-title: "CSAMA2025_material"
+title: "CSAMA 2025 - Workshop Materials"
+format: html
 ---
 
-This is a Quarto website.
+# Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This website contains materials for the **CSAMA 2025** workshop, covering key concepts in:
 
-```{r}
-1 + 1
-```
+- Statistical analysis of high-throughput data
+- Single-cell RNA sequencing
+- Histopathological image analysis
+
+You can find lecture notes, slides, code, and datasets in the corresponding sections.
+
+```{.callout-note}
+To run the code locally, make sure you have the required R packages installed. See the **Resources** page for more info.
