@@ -64,21 +64,20 @@ strategies.
 
 ::: columns
 ::: {.column width="50%"}
--   **Anne-Laure Boulesteix**, Ludwig Maximilians Universitat Munchen\
--   **Maria Doyle**, University of Limerick\
+-   **Vince Carey**, Harvard Medical School\
+-   **Helena Crowell**, CNAG Barcelona\
 -   **Robert Gentleman**, Harvard Medical School\
--   **Philippine Louail**, Eurac Research\
 -   **Davide Risso**, University of Padova\
 -   **Ilaria Billato**, University of Padova\
+-   **Philippine Louail**, Eurac Research\
 :::
 
 ::: {.column width="50%"}
--   **Vince Carey**, Harvard Medical School\
+-   **Johannes Rainer**, Eurac Research\
 -   **Laurent Gatto**, UCLouvain\
 -   **Wolfgang Huber**, European Molecular Biology Laboratory\
 -   **Michael Love**, University of North Carolina at Chapel Hill\
--   **Charlotte Soneson**, Friedrich Miescher Institute for Biomedical
-    Research\
+-   **Charlotte Soneson**, Friedrich Miescher Institute for Biomedica  Research\
 :::
 :::
 
