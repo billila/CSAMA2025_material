@@ -41,6 +41,7 @@ The one-week intensive summer school <strong>Biological Data Science</strong> te
 | ![Ilaria Billato](images/faculty/billato.jpg){width=200}<br> **Ilaria Billato**<br> University of Padova | ![Philippine Louail](images/faculty/louail.jpg){width=200}<br> **Philippine Louail**<br> Eurac Research | |
 | | | |
 
+
 # Organised in collaboration with
 
 ```{=html}
