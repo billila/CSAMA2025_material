@@ -42,7 +42,11 @@
 }
 
 .header-logo {
+<<<<<<< HEAD
   max-height: 100px;
+=======
+  max-height: 70px;
+>>>>>>> 8b5cdf579e8cea79d56fdd9b1e56dc608b0d84cf
 }
 
 /* ==========================
