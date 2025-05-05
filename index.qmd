@@ -12,15 +12,10 @@ format:
 page-layout: full
 ---
 
-
 ```{=html}
 <div class="header-with-logo">
   <h1 class="site-title">CSAMA 2025</h1>
-<<<<<<< HEAD
-  <img src="docs/images/CSAMA2025.png" alt="CSAMA Logo" class="header-logo">
-=======
-  <img src="images/EuroBioC_orig.png" alt="CSAMA Logo" class="header-logo">
->>>>>>> 8b5cdf579e8cea79d56fdd9b1e56dc608b0d84cf
+  <img src="images/CSAMA2025.png" alt="CSAMA Logo" class="header-logo">
 </div>
 ```
 ```{=html}
@@ -30,23 +25,18 @@ page-layout: full
     <p><strong>21st Edition</strong><br>Bressanone-Brixen, Italy<br>06–11 JULY 2025</p>
   </div>
 </div>
-
 ```
-
 # Welcome
 
-This website contains materials for the **CSAMA 2025** workshop,
-covering key concepts in:
+This website contains materials for the **CSAMA 2025** workshop, covering key concepts in:
 
 -   Statistical analysis of high-throughput data
 -   Single-cell RNA sequencing
 -   Histopathological image analysis
 
-You can find lecture notes, slides, code, and datasets in the
-corresponding sections.
+You can find lecture notes, slides, code, and datasets in the corresponding sections.
 
-To run the code locally, make sure you have the required R packages
-installed. See the [Resources](resources.qmd) page for more info.
+To run the code locally, make sure you have the required R packages installed. See the [Resources](resources.qmd) page for more info.
 
 # Overview
 
@@ -69,8 +59,7 @@ The one-week intensive summer school Biological Data Science teaches advanced co
 -   **Laurent Gatto**, UCLouvain\
 -   **Wolfgang Huber**, European Molecular Biology Laboratory\
 -   **Michael Love**, University of North Carolina at Chapel Hill\
--   **Charlotte Soneson**, Friedrich Miescher Institute for Biomedical
-    Research\
+-   **Charlotte Soneson**, Friedrich Miescher Institute for Biomedical Research\
 :::
 :::
 
