@@ -1,21 +1,119 @@
 ---
-title: "CSAMA 2025 - Workshop Materials"
-format: html
+title: "Home"
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: true
+    toc-title: "On this page"
+    toc-location: right
+    title-block-style: none
+    number-sections: false 
+page-layout: full
 ---
+
+
+```{=html}
+<div class="header-with-logo">
+  <h1 class="site-title">CSAMA 2025</h1>
+  <img src="images/EuroBioC_orig.png" alt="CSAMA Logo" class="header-logo">
+</div>
+```
+```{=html}
+<div class="hero">
+  <div class="hero-text">
+    <h1>CSAMA 2025<br>Biological Data Science</h1>
+    <p><strong>21st Edition</strong><br>Bressanone-Brixen, Italy<br>06–11 JULY 2025</p>
+  </div>
+</div>
+
+```
 
 # Welcome
 
-This website contains materials for the **CSAMA 2025** workshop, covering key concepts in:
+This website contains materials for the **CSAMA 2025** workshop,
+covering key concepts in:
 
-- Statistical analysis of high-throughput data
-- Single-cell RNA sequencing
-- Histopathological image analysis
+-   Statistical analysis of high-throughput data
+-   Single-cell RNA sequencing
+-   Histopathological image analysis
 
-You can find lecture notes, slides, code, and datasets in the corresponding sections.
+You can find lecture notes, slides, code, and datasets in the
+corresponding sections.
 
+To run the code locally, make sure you have the required R packages
+installed. See the [Resources](resources.qmd) page for more info.
 
-To run the code locally, make sure you have the required R packages installed. See the **Resources** page for more info.
+# Overview
 
-```{.callout-note}
-To run the code locally, make sure you have the required R packages installed. See the **Resources** page for more info.
+The one-week intensive summer school **Biological Data Science** teaches
+advanced computational analyses of modern molecular data types in
+biology and biomedicine, including single cell and spatial omics. It
+comprises lectures covering underlying theory and concepts, practical
+hands-on exercises, and informal discussion sessions. Lecture topics
+include modern biotechnologies for quantitative measurements,
+statistical analysis, visualisation, and computational tools. Hands-on
+exercises are looking at state-of-the-art datasets, using the R /
+Bioconductor environment. At the end of the course, you should be better
+able to design, implement and interpret analyses on your own
+(multi-)omic, single and/or spatial data, adapt and combine different
+tools, and make informed and scientifically sound choices about analysis
+strategies.
+
+# Faculty and Teaching Assistants
+
+::: columns
+::: {.column width="50%"}
+-   **Anne-Laure Boulesteix**, Ludwig Maximilians Universitat Munchen\
+-   **Maria Doyle**, University of Limerick\
+-   **Robert Gentleman**, Harvard Medical School\
+-   **Philippine Louail**, Eurac Research\
+-   **Davide Risso**, University of Padova\
+-   **Ilaria Billato**, University of Padova\
+:::
+
+::: {.column width="50%"}
+-   **Vince Carey**, Harvard Medical School\
+-   **Laurent Gatto**, UCLouvain\
+-   **Wolfgang Huber**, European Molecular Biology Laboratory\
+-   **Michael Love**, University of North Carolina at Chapel Hill\
+-   **Charlotte Soneson**, Friedrich Miescher Institute for Biomedical
+    Research\
+:::
+:::
+
+# Organised in collaboration with
+
+```{=html}
+<div class="logos">
+  <div class="logo-item">
+    <a href="https://www.bioconductor.org/" target="_blank">
+      <img class="small-logo" src="images/bioconductor_logo_cmyk.jpg" alt="Bioconductor logo">
+    </a>
+  </div>
+
+  <div class="logo-item">
+    <a href="https://stat.unipd.it" target="_blank">
+      <img src="images/stat_unipd_logo.jpg" alt="Stat Unipd logo">
+    </a>
+  </div>
+
+  <div class="logo-item">
+    <a href="https://www.unipd.it" target="_blank">
+      <img src="images/UNIPD_logo.png" alt="University of Padua logo">
+    </a>
+  </div>
+
+  <div class="logo-item">
+    <a href="https://www.embl.org/" target="_blank">
+      <img src="images/EMBL_logo.png" alt="EMBL logo">
+    </a>
+  </div>
+
+  <div class="logo-item">
+    <a href="https://iasc-isi.org/" target="_blank">
+      <img src="images/isi_logo.jpg" alt="IASC logo">
+    </a>
+  </div>
+</div>
 ```
