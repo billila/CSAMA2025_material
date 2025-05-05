@@ -3,10 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "CSAMA 2025 - Materials"
+  title: "CSAMA 2025 Biological Data Science"
+  open-graph:
+    locale: en_US
+    site-name: "CSAMA 2025"
   navbar:
+    title: false
     background: "#1a81c2"
     foreground: "white"
+    logo: "images/CSAMA2025.png"
+    search: true
     right:
       - text: "Home"
         href: index.qmd
@@ -26,19 +32,31 @@ website:
             text: "Day 5"
       - text: "Resources"
         href: resources.qmd
+      - text: "Contacts"
+        href: contacts.qmd
   page-footer:
     center: |
       [GitHub Repo](https://github.com/billila/CSAMA2025_material) • Built with [Quarto](https://quarto.org) 
+    left: |
+      Copyright (c) 2025, European Bioconductor Society e.V.  
+      The European Bioconductor Society e.V. is a registered association in Germany created to support  
+      Bioconductor's mission to promote open source software in the life sciences and statistics.
   favicon: "images/CSAMA2025.png"
   image: "images/CSAMA2025.png"
 
 format:
   html:
-    theme: 
-        light: cosmo
-        dark: [cosmo, theme-dark.scss]
+    theme: materia
     css: styles.css
     linkcolor: "#2A57A3"
     toc-color: "#2A57A3"
     toc: true
-    number-sections: true
+    grid:
+      sidebar-width: 150px
+      body-width: 750px
+      margin-width: 300px
+    date-format: iso
+    include-in-header:
+      - text: |
+          <meta http-equiv="Cache-Control" content="max-age=1800, must-revalidate"> 
+    lightbox: true

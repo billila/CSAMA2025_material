@@ -1,0 +1,15 @@
+# Contact
+
+For inquiries related to the registration, scientific program, organisation and certificates of attendance, please contact **csama[at]stat.unipd.it**
+
+## Summer school coordination
+
+Davide Risso, Department of Statistical Sciences, University of Padova.
+
+Wolfgang Huber, European Bioconductor Society e.V. and European Molecular Biology Laboratory.
+
+## Summer school organisation
+
+Elena Guzzonato, Department of Statistical Sciences, University of Padova.
+
+Maja Kazmierczak-Barthel, European Molecular Biology Laboratory.
