@@ -32,6 +32,8 @@ website:
             text: "Day 5"
       - text: "Resources"
         href: resources.qmd
+      - text: "Code of Conduct"
+        href: code.qmd
       - text: "Contacts"
         href: contacts.qmd
   page-footer:
