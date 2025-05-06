@@ -1,9 +1,103 @@
----
-title: "About"
----
+# About the Summer School
 
-About this site
+The summer school is intended for researchers who have basic familiarity with the experimental technologies and their applications in biology, and who are interested in making the step from a user of bioinformatics software towards **adapting or developing their own analysis workflows** .
 
-```{r}
-1 + 1
-```
+The four practical sessions of the summer school will require you to **follow and modify scripts in the computer language R** .
+
+::: {.callout-tip icon="💡"}
+# Topics Covered
+
+The programme covers a wide range of topics, including but not limited to:
+
+-   **Introduction to R and Bioconductor**
+-   **Elements of statistics**: visualization, regression, PCA and other low-dimensional embeddings, statistical tests incl. multiple, classification / supervised machine learning
+-   **RNA-Seq data analysis** – both bulk and single-cell
+-   **Spatial omics and annotation workflows** – genes, genomic features, variants, transcripts, and proteins
+-   **Mass spectrometry-based proteomics and metabolomics**
+-   **Immunobioinformatics**
+-   **Experimental design**, batch effects, and confounding
+-   **Reproducible research** and workflow authoring with R Markdown
+-   **Package development**, version control, and developer tools
+:::
+
+## Summer School Structure
+
+The programme is structured to provide a balanced mix of **theory and hands-on practice**, spread across five days:
+
+-   **Morning lectures**\
+    *20 sessions of 45 minutes each*\
+    📅 Monday to Friday — 🕣 08:30–12:00
+
+-   **Practical computer tutorials**\
+    *Interactive lab sessions in small groups*\
+    📅 Monday, Tuesday, Thursday, Friday — 🕐 13:30–16:30
+
+-   **Flashlight talks**\
+    *Short presentations by participants*\
+    📅 Monday, Tuesday, Thursday — 🕟 16:30–17:00
+
+-   **Evening sessions**\
+    *Informal discussions, Q&A and project groups*\
+    📅 Monday and Tuesday — 🕗 20:30–22:00
+
+-   **Midweek mountain hike**\
+    *Social and cultural activity in the Alps*\
+    📅 Wednesday — 🕑 14:00–22:00
+
+## Teaching Materials
+
+All **lecture slides** and **workshop materials** will be provided during the summer school and will remain accessible after the event. Participants are encouraged to actively engage with the content and explore additional resources shared by the instructors.
+
+## Computer Tutorials
+
+During the hands-on labs, you will work at your own pace in small groups, with expert guidance provided by morning lecturers and dedicated teaching assistants.
+
+::: {.callout-tip icon="🧰"}
+### What to prepare
+
+Please bring your own laptop with:
+
+-   The latest version of **R** (4.3.x)
+-   **Bioconductor 3.18** installed
+-   Admin rights on your machine
+-   ≥ **8 GB RAM**
+-   ≥ **20 GB free disk space**
+:::
+
+::: {.callout-warning icon="🌐"}
+### Important note
+
+Please make sure to set up your system **before** arrival.\
+Internet connections at the venue may be slow or unreliable.
+:::
+
+## Social Programme
+
+One afternoon is dedicated to a joint cultural and outdoor activity.\
+We plan a trip into the mountains with a light hike in the high-alpine area (weather permitting), followed by a delicious local dinner.
+
+### 🕒 Timetable
+
+| **Time**  | **Activity**                                                                                                                               |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **14:00** | Meeting point at *Casa della Gioventù*. We walk 1 min to the bus waiting in Via Dante. <br> Please use the underpass to cross “Via Peter Mayr.” |
+| **14:15** | Departure by bus to the Mount Plose cable car.                                                                                             |
+| **14:45** | Cable car ride to the top of Mount Plose (20–30 min). <br> Light hike (45–60 min) to RossAlm at 2200 m altitude.                            |
+| **18:00** | Social dinner at RossAlm.                                                                                                               |
+| **20:00** | Return walk to the bus from RossAlm.                                                                                                        |
+| **21:00** | Bus ride back to Brixen.                                                                                                                    |
+                                                                        |
+
+::: {.callout-note icon="🧳"}
+### What to bring
+
+-   Solid footwear (ideal: hiking shoes or boots)\
+-   Warm sweater or fleece\
+-   Rain jacket – it can get quite chilly at higher altitudes
+:::
+
+::: {.callout-warning icon="📧"}
+### Please let us know!
+
+If you **won’t attend the social programme**, inform us by emailing [info\@bioconductor.eu](mailto:info@bioconductor.eu).
+:::
