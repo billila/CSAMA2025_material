@@ -1,0 +1,257 @@
+---
+title: ""
+format:
+  revealjs:
+    theme: moon
+    slide-number: true
+    transition: fade
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## 
+
+::: {style="text-align: center;"}
+<h1 style="font-size: 2.2em; margin-top: 2em; text-transform: none;">
+
+What is Bioconductor?
+
+</h1>
+
+::: {style="font-size: 1em; margin: 0.4em 0;"}
+•••
+:::
+
+<p style="font-size: 0.4em; margin: 0;">
+
+Maria Doyle<br> Bioconductor Community Manager<br>
+<a href="mailto:maria.doyle@ul.ie" style="color: #ffb733;">maria.doyle\@ul.ie</a>
+
+</p>
+
+<p style="font-size: 0.4em; margin-top: 2em; opacity: 0.9;">
+
+Slides: Lori Shepherd, Bioconductor Core Team
+
+</p>
+:::
+
+## 
+
+::: {style="text-align: center;"}
+<h1 style="font-size: 1.5em; margin-top: 1em; text-transform: none;">
+
+<strong>Bioconductor is not a package; it’s a package
+repository</strong>
+
+</h1>
+:::
+
+::: {style="margin-top: 1em;"}
+:::
+
+::: {style="font-size: 0.85em;"}
+Bioconductor provides tools for the analysis, comprehension, and
+visualization of genetic and genomic data as an R package repository
+system. It is open source and open development, relying on community
+contributed R packages.
+
+::: {style="margin-top: 1em;"}
+:::
+
+Resources:
+
+-   🔗 Website: [bioconductor.org](https://bioconductor.org)
+
+-   🔗 Support Site:
+    [support.bioconductor.org](https://support.bioconductor.org)
+
+-   🔗 Contributors Resource:
+    [contributions.bioconductor.org](https://contributions.bioconductor.org)
+:::
+
+## 
+
+::: {style="text-align: center;"}
+<h1 style="font-size: 1.5em; margin-top: 1em; text-transform: none;">
+
+<strong>Just some of the many available packages!</strong>
+
+</h1>
+:::
+
+::: {style="display: flex; justify-content: center; gap: em; margin-top: 1em;"}
+<img src="images/Picture1.png" alt="Packages 1" style="max-width: 50%; height: auto;"/>
+<img src="images/Picture2.png" alt="Packages 2" style="max-width: 70%; height: auto;"/>
+:::
+
+------------------------------------------------------------------------
+
+## 
+
+::: {style="text-align: center;"}
+<h1 style="font-size: 1.5em; margin-top: 0em; text-transform: none;">
+
+<strong>Bioconductor is an organization</strong>
+
+</h1>
+:::
+
+::: {style="font-size: 0.6em; text-align: left; max-width: 100%; margin: 0 auto;"}
+Advisory Boards help shape the direction of the project and ensure
+technological relevance:
+
+-   **Bioconductor Foundation / European Bioconductor Society**\
+    [501(c)(3) organization, handles money regarding conference
+    organization, donations, and sponsorship]{style="opacity: 0.7;"}
+
+-   **Scientific Advisory Board (SAB)**\
+    [Provides external guidance and oversight of the scientific
+    direction of the project. Invitation-only
+    board.]{style="opacity: 0.7;"}
+
+-   **Technical Advisory Board (TAB)**\
+    [Advises on project and package-level infrastructure. Open call;
+    elections held annually.]{style="opacity: 0.7;"}
+
+-   **Community Advisory Board (CAB)**\
+    [Dedicated to developing and diversifying the Bioconductor
+    community. Open call; elections held
+    annually.]{style="opacity: 0.7;"}
+
+-   **Core Team**\
+    [Developers maintaining core packages and
+    infrastructure.]{style="opacity: 0.7;"}
+
+-   **Global Bioconductor Community** 🎉
+
+**Note:** Bioconductor Foundation is being dissolved; NumFOCUS is now
+fiscal sponsor.
+:::
+
+------------------------------------------------------------------------
+
+## 
+
+<div style="font-size: 0.65em; text-align: center;">
+
+<h2 style="margin-top: 0em; text-transform: none;">Technical Advisory Board 
+  <img src="images/Picture3.png" alt="TAB Logo" style="width: 30px; vertical-align: middle; margin-left: 0.5em;">
+</h2>
+
+<p>
+  <a href="https://bioconductor.org/about/technical-advisory-board/" target="_blank">
+    🔗 technical-advisory-board
+  </a>
+</p>
+
+| | | | | |
+|:--:|:--:|:--:|:--:|:--:|
+| ![](images/faculty/Bengtsson.jpg){width=90} <br> Henrik <br> Bengtsson | ![](images/faculty/carey.jpeg){width=90} <br> Vince <br> Carey | ![](images/faculty/crowell.jpeg){width=90} <br> Helena <br> Crowell | ![](images/faculty/Davis.png){width=90} <br> Sean <br> Davis | ![](images/faculty/gatto.jpg){width=90} <br> Laurent <br> Gatto |
+| ![](images/faculty/Geistlinger.png){width=90} <br> Ludwig <br> Geistlinger | ![](images/faculty/Hansen.png){width=90} <br> Kasper <br> Hansen | ![](images/faculty/Hicks.png){width=90} <br> Stephanie <br> Hicks | ![](images/faculty/huber.jpg){width=90} <br> Wolfgang <br> Huber | ![](images/faculty/Irizarry.png){width=90} <br> Rafael <br> Irizarry |
+| ![](images/faculty/Kern.png){width=90} <br> Lori <br> Kern | ![](images/faculty/love.jpg){width=90} <br> Michael <br> Love | ![](images/faculty/risso.jpeg){width=90} <br> Davide <br> Risso | ![](images/faculty/soneson.jpg){width=90} <br> Charlotte <br> Soneson | ![](images/faculty/Waldron.png){width=90} <br> Levi <br> Waldron |
+
+</div>
+
+## 
+
+::: {style="text-align: center;"}
+<h1 style="font-size: 1em; margin-top: 0em; text-transform: none;">
+
+<strong>Core Team: Infrastructure Development and Maintenance</strong>
+
+</h1>
+:::
+::: {style="font-size: 0.5em; text-align: left; max-width: 100%; margin: 0 auto;"}
+-   Develop and maintain Bioconductor infrastructure packages
+
+-   Bioconductor.org maintenance
+
+-   Support.bioconductor.org maintenance
+
+-   Answering questions on all outlets
+
+-   Bioconductor Build System (BBS) for daily builds and reporting
+
+-   Docker Image generation
+
+-   Binary Package generation (AnVIL/Docker)
+
+-   New Package Submission (SPB) process and review
+
+-   AWS infrastructure
+
+-   Azure infrastructure
+
+-   OSN infrastructure
+
+-   Jetstream2 processes
+
+-   Maintaining the git ecosystem
+
+-   Package download stats
+
+-   BiocManager maintenance
+
+-   Bioconductor ExperimentHub and AnnotationHub integration
+
+-   Outreachy projects
+
+-   And more …. So if we don’t get to your question right away please be
+    kind!
+:::
+------------------------------------------------------------------------
+
+## Bioconductor is a community
+
+-   Connects users, developers, and maintainers
+-   Support:
+    [support.bioconductor.org](https://support.bioconductor.org)
+-   Slack: [slack.bioconductor.org](https://slack.bioconductor.org)
+-   Events:
+    [bioconductor.org/help/events](https://bioconductor.org/help/events)
+
+------------------------------------------------------------------------
+
+## Developing Packages
+
+-   Community-contributed packages welcome
+-   Requirements: structure, documentation, testing
+-   Reviewed and integrated into Bioconductor build system
+
+------------------------------------------------------------------------
+
+## Working Groups & Committees
+
+-   Code of Conduct
+-   Cloud Methods
+-   Education, Mass Spectrometry
+-   Multilingual support
+-   Website & Social Media
+-   Want to start your own?
+
+More at:
+[workinggroups.bioconductor.org](https://workinggroups.bioconductor.org/)
+
+------------------------------------------------------------------------
+
+## Bioconductor on Social Media
+
+-   Slack: [slack.bioconductor.org](https://slack.bioconductor.org)
+-   Mastodon:
+    [genomic.social/\@bioconductor](https://genomic.social/@bioconductor)
+-   LinkedIn: [Bioconductor on
+    LinkedIn](https://www.linkedin.com/company/bioconductor)
+
+------------------------------------------------------------------------
+
+## Getting Started with Bioconductor
+
+-   Use **R** and **RStudio**
+-   Tools like **AnVIL** and **Docker**
+
+Install packages via `BiocManager`:
+
+\`\`\`r install.packages("BiocManager") library(BiocManager)
+install("DESeq2")

@@ -46,14 +46,14 @@
     "href": "about.html",
     "title": "About the Summer School",
     "section": "",
-    "text": "The summer school is intended for researchers who have basic familiarity with the experimental technologies and their applications in biology, and who are interested in making the step from a user of bioinformatics software towards adapting or developing their own analysis workflows .\nThe four practical sessions of the summer school will require you to follow and modify scripts in the computer language R .\n\n\n\n\n\n\nTopics Covered\n\n\n\nThe programme covers a wide range of topics, including but not limited to:\n\nIntroduction to R and Bioconductor\nElements of statistics: visualization, regression, PCA and other low-dimensional embeddings, statistical tests incl. multiple, classification / supervised machine learning\nRNA-Seq data analysis – both bulk and single-cell\nSpatial omics and annotation workflows – genes, genomic features, variants, transcripts, and proteins\nMass spectrometry-based proteomics and metabolomics\nImmunobioinformatics\nExperimental design, batch effects, and confounding\nReproducible research and workflow authoring with R Markdown\nPackage development, version control, and developer tools\n\n\n\n\n\nThe programme is structured to provide a balanced mix of theory and hands-on practice, spread across five days:\n\nMorning lectures\n20 sessions of 45 minutes each\n📅 Monday to Friday — 🕣 08:30–12:00\nPractical computer tutorials\nInteractive lab sessions in small groups\n📅 Monday, Tuesday, Thursday, Friday — 🕐 13:30–16:30\nFlashlight talks\nShort presentations by participants\n📅 Monday, Tuesday, Thursday — 🕟 16:30–17:00\nEvening sessions\nInformal discussions, Q&A and project groups\n📅 Monday and Tuesday — 🕗 20:30–22:00\nMidweek mountain hike\nSocial and cultural activity in the Alps\n📅 Wednesday — 🕑 14:00–22:00\n\n\n\n\nAll lecture slides and workshop materials will be provided during the summer school and will remain accessible after the event. Participants are encouraged to actively engage with the content and explore additional resources shared by the instructors.\n\n\n\nDuring the hands-on labs, you will work at your own pace in small groups, with expert guidance provided by morning lecturers and dedicated teaching assistants.\n\n\n\n\n\n\nWhat to prepare\n\n\n\nPlease bring your own laptop with:\n\nThe latest version of R (4.3.x)\nBioconductor 3.18 installed\nAdmin rights on your machine\n≥ 8 GB RAM\n≥ 20 GB free disk space\n\n\n\n\n\n\n\n\n\nImportant note\n\n\n\nPlease make sure to set up your system before arrival.\nInternet connections at the venue may be slow or unreliable.\n\n\n\n\n\nOne afternoon is dedicated to a joint cultural and outdoor activity.\nWe plan a trip into the mountains with a light hike in the high-alpine area (weather permitting), followed by a delicious local dinner.\n\n\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n14:00\nMeeting point at Casa della Gioventù. We walk 1 min to the bus waiting in Via Dante.  Please use the underpass to cross “Via Peter Mayr.”\n\n\n14:15\nDeparture by bus to the Mount Plose cable car.\n\n\n14:45\nCable car ride to the top of Mount Plose (20–30 min).  Light hike (45–60 min) to RossAlm at 2200 m altitude.\n\n\n18:00\nSocial dinner at RossAlm.\n\n\n20:00\nReturn walk to the bus from RossAlm.\n\n\n21:00\nBus ride back to Brixen.\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat to bring\n\n\n\n\nSolid footwear (ideal: hiking shoes or boots)\n\nWarm sweater or fleece\n\nRain jacket – it can get quite chilly at higher altitudes\n\n\n\n\n\n\n\n\n\nPlease let us know!\n\n\n\nIf you won’t attend the social programme, inform us by emailing info@bioconductor.eu."
+    "text": "The summer school is intended for researchers who have basic familiarity with the experimental technologies and their applications in biology, and who are interested in making the step from a user of bioinformatics software towards adapting or developing their own analysis workflows.\nThe four practical sessions of the summer school will require you to follow and modify scripts in the computer language R.\n\n\n\n\n\n\nTopics Covered\n\n\n\nThe programme covers a wide range of topics, including but not limited to:\n\nIntroduction to R and Bioconductor\nElements of statistics: visualization, regression, PCA and other low-dimensional embeddings, statistical tests incl. multiple, classification / supervised machine learning\nRNA-Seq data analysis – both bulk and single-cell\nSpatial omics and annotation workflows – genes, genomic features, variants, transcripts, and proteins\nMass spectrometry-based proteomics and metabolomics\nImmunobioinformatics\nExperimental design, batch effects, and confounding\nReproducible research and workflow authoring with R Markdown\nPackage development, version control, and developer tools\n\n\n\n\n\nThe programme is structured to provide a balanced mix of theory and hands-on practice, spread across five days:\n\nMorning lectures\n20 sessions of 45 minutes each\n📅 Monday to Friday — 🕣 08:30–12:00\nPractical computer tutorials\nInteractive lab sessions in small groups\n📅 Monday, Tuesday, Thursday, Friday — 🕐 13:30–16:30\nFlashlight talks\nShort presentations by participants\n📅 Monday, Tuesday, Thursday — 🕟 16:30–17:00\nEvening sessions\nInformal discussions, Q&A and project groups\n📅 Monday and Tuesday — 🕗 20:30–22:00\nMidweek mountain hike\nSocial and cultural activity in the Alps\n📅 Wednesday — 🕑 14:00–22:00\n\n\n\n\nAll lecture slides and workshop materials will be provided during the summer school and will remain accessible after the event. Participants are encouraged to actively engage with the content and explore additional resources shared by the instructors.\n\n\n\nDuring the hands-on labs, you will work at your own pace in small groups, with expert guidance provided by morning lecturers and dedicated teaching assistants.\n\n\n\n\n\n\nWhat to prepare\n\n\n\nPlease bring your own laptop with:\n\nThe latest version of R (4.3.x)\nBioconductor 3.18 installed\nAdmin rights on your machine\n≥ 8 GB RAM\n≥ 20 GB free disk space\n\n\n\n\n\n\n\n\n\nImportant note\n\n\n\nPlease make sure to set up your system before arrival.\nInternet connections at the venue may be slow or unreliable.\n\n\n\n\n\nOne afternoon is dedicated to a joint cultural and outdoor activity.\nWe plan a trip into the mountains with a light hike in the high-alpine area (weather permitting), followed by a delicious local dinner.\n\n\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n14:00\nMeeting point at Casa della Gioventù. We walk 1 min to the bus waiting in Via Dante.  Please use the underpass to cross “Via Peter Mayr.”\n\n\n14:15\nDeparture by bus to the Mount Plose cable car.\n\n\n14:45\nCable car ride to the top of Mount Plose (20–30 min).  Light hike (45–60 min) to RossAlm at 2200 m altitude.\n\n\n18:00\nSocial dinner at RossAlm.\n\n\n20:00\nReturn walk to the bus from RossAlm.\n\n\n21:00\nBus ride back to Brixen.\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat to bring\n\n\n\n\nSolid footwear (ideal: hiking shoes or boots)\n\nWarm sweater or fleece\n\nRain jacket – it can get quite chilly at higher altitudes\n\n\n\n\n\n\n\n\n\nPlease let us know!\n\n\n\nIf you won’t attend the social programme, inform us by emailing info@bioconductor.eu."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "  CSAMA 2025  Biological Data Science  ",
     "section": "",
-    "text": "Welcome\nThis website contains materials for the CSAMA 2025 workshop, covering key concepts in:\n\nStatistical analysis of high-throughput data\nSingle-cell RNA sequencing\nHistopathological image analysis\n\nYou can find lecture notes, slides, code, and datasets in the corresponding sections.\nTo run the code locally, make sure you have the required R packages installed. See the Resources page for more info.\n\n\nOverview\n\n\nThe one-week intensive summer school Biological Data Science teaches advanced computational analyses of modern molecular data types in biology and biomedicine, including single cell and spatial omics. It comprises lectures covering underlying theory and concepts, practical hands-on exercises, and informal discussion sessions. Lecture topics include modern biotechnologies for quantitative measurements, statistical analysis, visualisation, and computational tools. Hands-on exercises are looking at state-of-the-art datasets, using the R / Bioconductor environment. At the end of the course, you should be better able to design, implement and interpret analyses on your own (multi-)omic, single and/or spatial data, adapt and combine different tools, and make informed and scientifically sound choices about analysis strategies.\n\n\n\n\nFaculty and Teaching Assistants\n\n\n\n\n\n\n\n\n Vince Carey Harvard Medical School\n Helena Crowell CNAG Barcelona\n Laurent Gatto UC Louvain\n\n\n\n\n\n\n\n Robert Gentleman\n Wolfgang Huber EMBL\n Michael Love University of North Carolina\n\n\n\n\n\n\n\n Johannes Rainer Eurac Research\n Davide Risso University of Padova\n Charlotte Soneson Friedrich Miescher Institute for Biomedical Research\n\n\n\n\n\n\n\n Ilaria Billato University of Padova\n Philippine Louail Eurac Research\n\n\n\n\n\n\n\n\n\n\n\nOrganised in collaboration with"
+    "text": "Welcome\n\nThis website contains materials for the CSAMA 2025 workshop, covering key concepts in:\n\nStatistical analysis of high-throughput data\nSingle-cell RNA sequencing\nHistopathological image analysis\n\nYou can find lecture notes, slides, code, and datasets in the corresponding sections.\nTo run the code locally, make sure you have the required R packages installed. See the Resources page for more info.\n\n\n\nOverview\n\n\nThe one-week intensive summer school Biological Data Science teaches advanced computational analyses of modern molecular data types in biology and biomedicine, including single cell and spatial omics. It comprises lectures covering underlying theory and concepts, practical hands-on exercises, and informal discussion sessions. Lecture topics include modern biotechnologies for quantitative measurements, statistical analysis, visualisation, and computational tools. Hands-on exercises are looking at state-of-the-art datasets, using the R / Bioconductor environment. At the end of the course, you should be better able to design, implement and interpret analyses on your own (multi-)omic, single and/or spatial data, adapt and combine different tools, and make informed and scientifically sound choices about analysis strategies.\n\n\n\n\nFaculty and Teaching Assistants\n\n\n\n\n\n\n\n\n Vince Carey Harvard Medical School\n Helena Crowell CNAG Barcelona\n Laurent Gatto UC Louvain\n\n\n\n\n\n\n\n Robert Gentleman\n Wolfgang Huber EMBL\n Michael Love University of North Carolina\n\n\n\n\n\n\n\n Johannes Rainer Eurac Research\n Davide Risso University of Padova\n Charlotte Soneson Friedrich Miescher Institute for Biomedical Research\n\n\n\n\n\n\n\n Ilaria Billato University of Padova\n Philippine Louail Eurac Research\n\n\n\n\n\n\n\n\n\n\n\nOrganised in collaboration with"
   },
   {
     "objectID": "lectures/day2.html",
@@ -67,7 +67,7 @@
     "href": "lectures/day1.html",
     "title": "Day 1",
     "section": "",
-    "text": "Materials coming soon."
+    "text": "View slides"
   },
   {
     "objectID": "programme.html",
@@ -159,5 +159,194 @@
     "title": "About the Summer School",
     "section": "",
     "text": "One afternoon is dedicated to a joint cultural and outdoor activity.\nWe plan a trip into the mountains with a light hike in the high-alpine area (weather permitting), followed by a delicious local dinner.\n\n\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n14:00\nMeeting point at Casa della Gioventù. We walk 1 min to the bus waiting in Via Dante.  Please use the underpass to cross “Via Peter Mayr.”\n\n\n14:15\nDeparture by bus to the Mount Plose cable car.\n\n\n14:45\nCable car ride to the top of Mount Plose (20–30 min).  Light hike (45–60 min) to RossAlm at 2200 m altitude.\n\n\n18:00\nSocial dinner at RossAlm.\n\n\n20:00\nReturn walk to the bus from RossAlm.\n\n\n21:00\nBus ride back to Brixen.\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat to bring\n\n\n\n\nSolid footwear (ideal: hiking shoes or boots)\n\nWarm sweater or fleece\n\nRain jacket – it can get quite chilly at higher altitudes\n\n\n\n\n\n\n\n\n\nPlease let us know!\n\n\n\nIf you won’t attend the social programme, inform us by emailing info@bioconductor.eu."
+  },
+  {
+    "objectID": "slides/CSAMA_2025_BiocIntro.html#what-is-bioconductor",
+    "href": "slides/CSAMA_2025_BiocIntro.html#what-is-bioconductor",
+    "title": "Introduction to Bioconductor",
+    "section": "What is Bioconductor?",
+    "text": "What is Bioconductor?\n\nBioconductor is not a package: it’s a package repository\nProvides tools for analysis, comprehension, and visualization of genetic/genomic data\nBuilt as an open-source, community-driven R ecosystem\n\nResources: - 🔗 bioconductor.org - 🔗 support.bioconductor.org - 🔗 contributions.bioconductor.org"
+  },
+  {
+    "objectID": "slides/CSAMA_2025_BiocIntro.html#just-some-of-the-many-available-packages",
+    "href": "slides/CSAMA_2025_BiocIntro.html#just-some-of-the-many-available-packages",
+    "title": "Introduction to Bioconductor",
+    "section": "Just some of the many available packages!",
+    "text": "Just some of the many available packages!\n(Insert illustrative image if available)"
+  },
+  {
+    "objectID": "slides/CSAMA_2025_BiocIntro.html#bioconductor-is-an-organization",
+    "href": "slides/CSAMA_2025_BiocIntro.html#bioconductor-is-an-organization",
+    "title": "Introduction to Bioconductor",
+    "section": "Bioconductor is an organization",
+    "text": "Bioconductor is an organization\n\nBioconductor Foundation / European Bioconductor Society\nScientific Advisory Board (SAB): external guidance\nTechnical Advisory Board (TAB): infrastructure (open call)\nCommunity Advisory Board (CAB): community building (open call)\nCore Team: maintains core packages and infrastructure"
+  },
+  {
+    "objectID": "slides/CSAMA_2025_BiocIntro.html#core-team-not-just-packages",
+    "href": "slides/CSAMA_2025_BiocIntro.html#core-team-not-just-packages",
+    "title": "Introduction to Bioconductor",
+    "section": "Core Team — Not just packages!",
+    "text": "Core Team — Not just packages!\n\nMaintains infrastructure and daily build systems\nDocker containers, AWS/Azure, ExperimentHub, AnnotationHub\nAnswering support, mentoring, outreach"
+  },
+  {
+    "objectID": "slides/CSAMA_2025_BiocIntro.html#bioconductor-is-a-community",
+    "href": "slides/CSAMA_2025_BiocIntro.html#bioconductor-is-a-community",
+    "title": "Introduction to Bioconductor",
+    "section": "Bioconductor is a community",
+    "text": "Bioconductor is a community\n\nConnects users, developers, and maintainers\nSupport: support.bioconductor.org\nSlack: slack.bioconductor.org\nEvents: bioconductor.org/help/events"
+  },
+  {
+    "objectID": "slides/CSAMA_2025_BiocIntro.html#developing-packages",
+    "href": "slides/CSAMA_2025_BiocIntro.html#developing-packages",
+    "title": "Introduction to Bioconductor",
+    "section": "Developing Packages",
+    "text": "Developing Packages\n\nCommunity-contributed packages welcome\nRequirements: structure, documentation, testing\nReviewed and integrated into Bioconductor build system"
+  },
+  {
+    "objectID": "slides/CSAMA_2025_BiocIntro.html#working-groups-committees",
+    "href": "slides/CSAMA_2025_BiocIntro.html#working-groups-committees",
+    "title": "Introduction to Bioconductor",
+    "section": "Working Groups & Committees",
+    "text": "Working Groups & Committees\n\nCode of Conduct\nCloud Methods\nEducation, Mass Spectrometry\nMultilingual support\nWebsite & Social Media\nWant to start your own?\n\nMore at: workinggroups.bioconductor.org"
+  },
+  {
+    "objectID": "slides/CSAMA_2025_BiocIntro.html#bioconductor-on-social-media",
+    "href": "slides/CSAMA_2025_BiocIntro.html#bioconductor-on-social-media",
+    "title": "Introduction to Bioconductor",
+    "section": "Bioconductor on Social Media",
+    "text": "Bioconductor on Social Media\n\nSlack: slack.bioconductor.org\nMastodon: genomic.social/@bioconductor\nLinkedIn: Bioconductor on LinkedIn"
+  },
+  {
+    "objectID": "slides/CSAMA_2025_BiocIntro.html#getting-started-with-bioconductor",
+    "href": "slides/CSAMA_2025_BiocIntro.html#getting-started-with-bioconductor",
+    "title": "Introduction to Bioconductor",
+    "section": "Getting Started with Bioconductor",
+    "text": "Getting Started with Bioconductor\n\nUse R and RStudio\nTools like AnVIL and Docker\n\nInstall packages via BiocManager:\n```r install.packages(“BiocManager”) library(BiocManager) install(“DESeq2”)"
+  },
+  {
+    "objectID": "lectures/day1.html#introduction-to-bioconductor",
+    "href": "lectures/day1.html#introduction-to-bioconductor",
+    "title": "Day 1",
+    "section": "",
+    "text": "View slides"
+  },
+  {
+    "objectID": "slides/day1_intro.html",
+    "href": "slides/day1_intro.html",
+    "title": "Introduction to Bioconductor",
+    "section": "",
+    "text": "Bioconductor is not a package: it’s a package repository\nProvides tools for analysis, comprehension, and visualization of genetic/genomic data\nBuilt as an open-source, community-driven R ecosystem\n\nResources: - 🔗 bioconductor.org - 🔗 support.bioconductor.org - 🔗 contributions.bioconductor.org"
+  },
+  {
+    "objectID": "slides/day1_intro.html#what-is-bioconductor",
+    "href": "slides/day1_intro.html#what-is-bioconductor",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "What is Bioconductor?",
+    "text": "What is Bioconductor?\n\nBioconductor is not a package: it’s a package repository\nProvides tools for analysis, comprehension, and visualization of genetic/genomic data\nBuilt as an open-source, community-driven R ecosystem\n\nResources: - 🔗 bioconductor.org - 🔗 support.bioconductor.org - 🔗 contributions.bioconductor.org"
+  },
+  {
+    "objectID": "slides/day1_intro.html#just-some-of-the-many-available-packages",
+    "href": "slides/day1_intro.html#just-some-of-the-many-available-packages",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "Just some of the many available packages!",
+    "text": "Just some of the many available packages!\n(Insert illustrative image if available)"
+  },
+  {
+    "objectID": "slides/day1_intro.html#bioconductor-is-an-organization",
+    "href": "slides/day1_intro.html#bioconductor-is-an-organization",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "Bioconductor is an organization",
+    "text": "Bioconductor is an organization\n\nBioconductor Foundation / European Bioconductor Society\nScientific Advisory Board (SAB): external guidance\nTechnical Advisory Board (TAB): infrastructure (open call)\nCommunity Advisory Board (CAB): community building (open call)\nCore Team: maintains core packages and infrastructure"
+  },
+  {
+    "objectID": "slides/day1_intro.html#core-team-not-just-packages",
+    "href": "slides/day1_intro.html#core-team-not-just-packages",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "Core Team — Not just packages!",
+    "text": "Core Team — Not just packages!\n\nMaintains infrastructure and daily build systems\nDocker containers, AWS/Azure, ExperimentHub, AnnotationHub\nAnswering support, mentoring, outreach"
+  },
+  {
+    "objectID": "slides/day1_intro.html#bioconductor-is-a-community",
+    "href": "slides/day1_intro.html#bioconductor-is-a-community",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "Bioconductor is a community",
+    "text": "Bioconductor is a community\n\nConnects users, developers, and maintainers\nSupport: support.bioconductor.org\nSlack: slack.bioconductor.org\nEvents: bioconductor.org/help/events"
+  },
+  {
+    "objectID": "slides/day1_intro.html#developing-packages",
+    "href": "slides/day1_intro.html#developing-packages",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "Developing Packages",
+    "text": "Developing Packages\n\nCommunity-contributed packages welcome\nRequirements: structure, documentation, testing\nReviewed and integrated into Bioconductor build system"
+  },
+  {
+    "objectID": "slides/day1_intro.html#working-groups-committees",
+    "href": "slides/day1_intro.html#working-groups-committees",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "Working Groups & Committees",
+    "text": "Working Groups & Committees\n\nCode of Conduct\nCloud Methods\nEducation, Mass Spectrometry\nMultilingual support\nWebsite & Social Media\nWant to start your own?\n\nMore at: workinggroups.bioconductor.org"
+  },
+  {
+    "objectID": "slides/day1_intro.html#bioconductor-on-social-media",
+    "href": "slides/day1_intro.html#bioconductor-on-social-media",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "Bioconductor on Social Media",
+    "text": "Bioconductor on Social Media\n\nSlack: slack.bioconductor.org\nMastodon: genomic.social/@bioconductor\nLinkedIn: Bioconductor on LinkedIn"
+  },
+  {
+    "objectID": "slides/day1_intro.html#getting-started-with-bioconductor",
+    "href": "slides/day1_intro.html#getting-started-with-bioconductor",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "Getting Started with Bioconductor",
+    "text": "Getting Started with Bioconductor\n\nUse R and RStudio\nTools like AnVIL and Docker\n\nInstall packages via BiocManager:\n```r install.packages(“BiocManager”) library(BiocManager) install(“DESeq2”)"
+  },
+  {
+    "objectID": "slides/day1_intro.html#section",
+    "href": "slides/day1_intro.html#section",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "",
+    "text": "What is Bioconductor?\n\n\n•••\n\n\nMaria Doyle Bioconductor Community Manager maria.doyle@ul.ie\n\n\nSlides: Lori Shepherd, Bioconductor Core Team"
+  },
+  {
+    "objectID": "slides/day1_intro.html#what-is-bioconductor-1",
+    "href": "slides/day1_intro.html#what-is-bioconductor-1",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "What is Bioconductor?",
+    "text": "What is Bioconductor?\n\nBioconductor is not a package: it’s a package repository\nProvides tools for analysis, comprehension, and visualization of genetic/genomic data\nBuilt as an open-source, community-driven R ecosystem\n\nResources: - 🔗 bioconductor.org - 🔗 support.bioconductor.org - 🔗 contributions.bioconductor.org"
+  },
+  {
+    "objectID": "slides/day1_intro.html#section-1",
+    "href": "slides/day1_intro.html#section-1",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "",
+    "text": "Bioconductor is not a package; it’s a package repository\n\n\n\n\n\n\nBioconductor provides tools for the analysis, comprehension, and visualization of genetic and genomic data as an R package repository system. It is open source and open development, relying on community contributed R packages.\n\n\n\nResources:\n\n🔗 Website: bioconductor.org\n🔗 Support Site: support.bioconductor.org\n🔗 Contributors Resource: contributions.bioconductor.org"
+  },
+  {
+    "objectID": "slides/day1_intro.html#section-2",
+    "href": "slides/day1_intro.html#section-2",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "",
+    "text": "Just some of the many available packages!"
+  },
+  {
+    "objectID": "slides/day1_intro.html#section-3",
+    "href": "slides/day1_intro.html#section-3",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "",
+    "text": "Bioconductor is an organization\n\n\n\nAdvisory Boards help shape the direction of the project and ensure technological relevance:\n\nBioconductor Foundation / European Bioconductor Society\n501(c)(3) organization, handles money regarding conference organization, donations, and sponsorship\nScientific Advisory Board (SAB)\nProvides external guidance and oversight of the scientific direction of the project. Invitation-only board.\nTechnical Advisory Board (TAB)\nAdvises on project and package-level infrastructure. Open call; elections held annually.\nCommunity Advisory Board (CAB)\nDedicated to developing and diversifying the Bioconductor community. Open call; elections held annually.\nCore Team\nDevelopers maintaining core packages and infrastructure.\nGlobal Bioconductor Community 🎉\n\nNote: Bioconductor Foundation is being dissolved; NumFOCUS is now fiscal sponsor."
+  },
+  {
+    "objectID": "slides/day1_intro.html#section-4",
+    "href": "slides/day1_intro.html#section-4",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "",
+    "text": "Technical Advisory Board \n\n\n 🔗 technical-advisory-board \n\n\n\n\n\n\n\n\n\n\n\n  Henrik  Bengtsson\n  Vince  Carey\n  Helena  Crowell\n  Sean  Davis\n  Laurent  Gatto\n\n\n  Ludwig  Geistlinger\n  Kasper  Hansen\n  Stephanie  Hicks\n  Wolfgang  Huber\n  Rafael  Irizarry\n\n\n  Lori  Kern\n  Michael  Love\n  Davide  Risso\n  Charlotte  Soneson\n  Levi  Waldron"
+  },
+  {
+    "objectID": "slides/day1_intro.html#section-5",
+    "href": "slides/day1_intro.html#section-5",
+    "title": "CSAMA 2025 Biological Data Science",
+    "section": "",
+    "text": "Core Team: Infrastructure Development and Maintenance\n\n\n\n\nDevelop and maintain Bioconductor infrastructure packages\nBioconductor.org maintenance\nSupport.bioconductor.org maintenance\nAnswering questions on all outlets\nBioconductor Build System (BBS) for daily builds and reporting\nDocker Image generation\nBinary Package generation (AnVIL/Docker)\nNew Package Submission (SPB) process and review\nAWS infrastructure\nAzure infrastructure\nOSN infrastructure\nJetstream2 processes\nMaintaining the git ecosystem\nPackage download stats\nBiocManager maintenance\nBioconductor ExperimentHub and AnnotationHub integration\nOutreachy projects\nAnd more …. So if we don’t get to your question right away please be kind!"
   }
 ]

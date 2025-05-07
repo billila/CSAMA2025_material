@@ -73,3 +73,13 @@ img.content-img {
   font-size: 0.9em;
   color: #333;
 }
+
+
+/* ==========================
+   JUSTIFY TEXT
+   ========================== */
+
+.justify {
+  text-align: justify;
+}
+
