@@ -21,70 +21,91 @@
 
 ## Schedule (subject to change)
 
-| Date/Time                                 | Content                                                                                                                                      |
-|------------------------------------------|------------------------------|
-| <font color="teal">**Sun 6 July**</font>  |                                                                                                                                              |
-| 18:00-20:00                               | Registration & help desk                                                                                                                     |
-| 18:00-20:00                               | Get together with drinks                                                                                                                     |
-| <font color="teal">**Mon 7 July**</font>  |                                                                                                                                              |
-| 08:30-09:15                               | **Lecture:** Introduction to Bioconductor                                                                                                    |
-| 09:15-10:00                               | **Lecture:** Transcriptomics: biology of transcription, quantification, batch effects and QC                                                 |
-| 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 10:30-11:15                               | **Lecture:** Regression: power, identifiability, diagnostics                                                                                 |
-| 11:15-12:00                               | **Lecture:** Statistical testing and multiple hypotheses                                                                                     |
-| 12:00-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
-| 14:00-15:30                               | **Lab:** R and Bioconductor basics                                                                                                           |
-| 15:30-16:00                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 16:00-17:00                               | **Lab continuation**                                                                                                                         |
-| 17:00-17:30                               | **Intro to Project Groups (optional)**                                                                                                       |
-| 20:10-22:00                               | **Evening session:** Project groups and discussions                                                                                          |
-| <font color="teal">**Tue 8 July**</font>  |                                                                                                                                              |
-| 08:30-09:15                               | **Lecture:** RNA-Seq differential expression                                                                                                 |
-| 09:15-10:00                               | **Lecture:** Single-cell RNA-seq: exploration, quality control, low-dimensional embeddings                                                   |
-| 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 10:30-11:15                               | **Lecture:** Dimension reduction: PCA and other low-dimensional embeddings                                                                   |
-| 11:15-12:00                               | **Lecture:** Distances, nearest-neighbour graphs and clustering                                                                              |
-| 12:00-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
-| 14:00-15:30                               | **Lab:** End-to-end RNA-Seq workflow                                                                                                         |
-| 14:00-15:30                               | **Lab:** Single-cell transcriptomics                                                                                                         |
-| 15:30-16:00                               | \~\~\~ Coffee \~\~\~                                                                                                                         |
-| 16:00-17:00                               | **Lab continuation**                                                                                                                         |
-| 17:00-17:30                               | **Flashlight talks**                                                                                                                         |
-| 20:10-22:00                               | **Evening session:** Drinks will be provided                                                                                                 |
-| <font color="teal">**Wed 9 July**</font>  |                                                                                                                                              |
-| 08:30-09:15                               | **Lecture:** Chromatin accessibility and ATAC-seq                                                                                            |
-| 09:15-10:00                               | **Lecture:** Single cell RNA-seq advanced topics: pseudo-bulking, double-dipping                                                             |
-| 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 10:30-11:15                               | **Lecture:** Multi-condition single cell RNA-seq differential analysis (or when is the right time to categorize?)                            |
-| 11:15-12:00                               | **Lecture:** Single cell advanced topics: multi-omics                                                                                        |
-| 12:00-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
-| 14:00-17:00                               | **Social Programme:** [Excursion to the mountains and dinner](../about/#social) Photos: [By WH](https://photos.app.goo.gl/8SLt6fHGoGiTNEMT8) |
-| <font color="teal">**Thu 10 July**</font> |                                                                                                                                              |
-| 08:30-09:15                               | **Lecture:** Mass spectrometry-based proteomics including single-cell                                                                        |
-| 09:15-10:00                               | **Lecture:** Mass spectrometry-based metabolomics                                                                                            |
-| 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 10:30-12:00                               | **Lab:** Proteomics                                                                                                                          |
-| 10:30-12:00                               | **Lab:** Metabolomics                                                                                                                        |
-| 12:00-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
-| 14:00-14:45                               | **Lecture**: Spatial (transcript)omics                                                                                                       |
-| 14:45-15:15                               | **Lecture:**: Bioconductor advanced topics: annotation resources                                                                             |
-| 15:15-15:30                               | \~\~\~ Coffee \~\~\~                                                                                                                         |
-| 15:30-17:00                               | **Lab:** Multi-condition single cell RNA-seq differential analysis                                                                           |
-| 15:30-17:00                               | **Lab:** Intro to Tidyomics: tidy data analysis applied to omics data                                                                        |
-| 15:30-17:00                               | **Lab:** Spatial Transcriptomics                                                                                                             |
-| 15:30-17:00                               | **Lab:** Trajectory analysis                                                                                                                 |
-| 15:30-17:00                               | **Lab:** Interactive exploration with iSEE                                                                                                   |
-| 15:30-17:00                               | **Lab:** Working with Image Data                                                                                                             |
-| 17:00-17:30                               | **Flashlight talks**                                                                                                                         |
-| 20:10-22:00                               | **Evening session:** Drinks will be provided                                                                                                 |
-| <font color="teal">**Fri 11 July**</font> |                                                                                                                                              |
-| 08:30-09:15                               | **Lecture:** Design of High Throughput Experiments and their Analysis                                                                        |
-| 09:15-10:00                               | **Lecture:** Machine learning (Robert Gentleman)                                                                                             |
-| 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 10:30-11:15                               | **Lecture:** AI tools for biology                                                                                                            |
-| 11:15-12:00                               | **Lecture:** AI tools for biology                                                                                                            |
-| 12:00                                     | **Closing remarks**                                                                                                                          |
-| 12:15-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
-| 14:00-15:30                               | **Group project presentations**                                                                                                              |
-| 15:30-16:00                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 16:00-16:30                               | **Career panel discussion**                                                                                                                  |
+### <span style='color: teal;'>Sun 6 July</span>
+
+| Time        | Content                    |
+|-------------|----------------------------|
+| 18:00-20:00 | Registration & help desk   |
+| 18:00-20:00 | Get together with drinks   |
+
+### <span style='color: teal;'>Mon 7 July</span>
+
+| Time        | Content                                                                 |
+|-------------|-------------------------------------------------------------------------|
+| 08:30-09:15 | **Lecture:** [Introduction to Bioconductor](lectures/day1.qmd#introduction-to-bioconductor) |
+| 09:15-10:00 | **Lecture:** Transcriptomics: biology of transcription, quantification, batch effects and QC |
+| 10:00-10:30 | *~~~ Coffee ~~~*                                                        |
+| 10:30-11:15 | **Lecture:** Regression: power, identifiability, diagnostics            |
+| 11:15-12:00 | **Lecture:** Statistical testing and multiple hypotheses                |
+| 12:00-14:00 | *~~~ Lunch break ~~~*                                                   |
+| 14:00-15:30 | **Lab:** R and Bioconductor basics                                      |
+| 15:30-16:00 | *~~~ Coffee ~~~*                                                        |
+| 16:00-17:00 | **Lab continuation**                                                    |
+| 17:00-17:30 | **Intro to Project Groups (optional)**                                  |
+| 20:10-22:00 | **Evening session:** Project groups and discussions                     |
+
+### <span style='color: teal;'>Tue 8 July</span>
+
+| Time        | Content                                                                 |
+|-------------|-------------------------------------------------------------------------|
+| 08:30-09:15 | **Lecture:** RNA-Seq differential expression                            |
+| 09:15-10:00 | **Lecture:** Single-cell RNA-seq: exploration, quality control, low-dimensional embeddings |
+| 10:00-10:30 | *~~~ Coffee ~~~*                                                        |
+| 10:30-11:15 | **Lecture:** Dimension reduction: PCA and other low-dimensional embeddings |
+| 11:15-12:00 | **Lecture:** Distances, nearest-neighbour graphs and clustering         |
+| 12:00-14:00 | *~~~ Lunch break ~~~*                                                   |
+| 14:00-15:30 | **Lab:** End-to-end RNA-Seq workflow                                    |
+| 14:00-15:30 | **Lab:** Single-cell transcriptomics                                    |
+| 15:30-16:00 | *~~~ Coffee ~~~*                                                        |
+| 16:00-17:00 | **Lab continuation**                                                    |
+| 17:00-17:30 | **Flashlight talks**                                                    |
+| 20:10-22:00 | **Evening session:** Drinks will be provided                            |
+
+### <span style='color: teal;'>Wed 9 July</span>
+
+| Time        | Content                                                                 |
+|-------------|-------------------------------------------------------------------------|
+| 08:30-09:15 | **Lecture:** Chromatin accessibility and ATAC-seq                       |
+| 09:15-10:00 | **Lecture:** Single cell RNA-seq advanced topics: pseudo-bulking, double-dipping |
+| 10:00-10:30 | *~~~ Coffee ~~~*                                                        |
+| 10:30-11:15 | **Lecture:** Multi-condition single cell RNA-seq differential analysis (or when is the right time to categorize?) |
+| 11:15-12:00 | **Lecture:** Single cell advanced topics: multi-omics                   |
+| 12:00-14:00 | *~~~ Lunch break ~~~*                                                   |
+| 14:00-17:00 | **Social Programme:** [Excursion to the mountains and dinner](about.qmd#social-programme) |
+
+### <span style='color: teal;'>Thu 10 July</span>
+
+| Time        | Content                                                                 |
+|-------------|-------------------------------------------------------------------------|
+| 08:30-09:15 | **Lecture:** Mass spectrometry-based proteomics including single-cell   |
+| 09:15-10:00 | **Lecture:** Mass spectrometry-based metabolomics                       |
+| 10:00-10:30 | *~~~ Coffee ~~~*                                                        |
+| 10:30-12:00 | **Lab:** Proteomics                                                     |
+| 10:30-12:00 | **Lab:** Metabolomics                                                   |
+| 12:00-14:00 | *~~~ Lunch break ~~~*                                                   |
+| 14:00-14:45 | **Lecture:** Spatial (transcript)omics                                  |
+| 14:45-15:15 | **Lecture:** Bioconductor advanced topics: annotation resources         |
+| 15:15-15:30 | *~~~ Coffee ~~~*                                                        |
+| 15:30-17:00 | **Lab:** Multi-condition single cell RNA-seq differential analysis      |
+| 15:30-17:00 | **Lab:** Intro to Tidyomics: tidy data analysis applied to omics data   |
+| 15:30-17:00 | **Lab:** Spatial Transcriptomics                                        |
+| 15:30-17:00 | **Lab:** Trajectory analysis                                            |
+| 15:30-17:00 | **Lab:** Interactive exploration with iSEE                              |
+| 15:30-17:00 | **Lab:** Working with Image Data                                        |
+| 17:00-17:30 | **Flashlight talks**                                                    |
+| 20:10-22:00 | **Evening session:** Drinks will be provided                            |
+
+### <span style='color: teal;'>Fri 11 July</span>
+
+| Time        | Content                                                                 |
+|-------------|-------------------------------------------------------------------------|
+| 08:30-09:15 | **Lecture:** Design of High Throughput Experiments and their Analysis   |
+| 09:15-10:00 | **Lecture:** Machine learning (Robert Gentleman)                        |
+| 10:00-10:30 | *~~~ Coffee ~~~*                                                        |
+| 10:30-11:15 | **Lecture:** AI tools for biology                                       |
+| 11:15-12:00 | **Lecture:** AI tools for biology                                       |
+| 12:00       | **Closing remarks**                                                     |
+| 12:15-14:00 | *~~~ Lunch break ~~~*                                                   |
+| 14:00-15:30 | **Group project presentations**                                         |
+| 15:30-16:00 | *~~~ Coffee ~~~*                                                        |
+| 16:00-16:30 | **Career panel discussion**                                             |
