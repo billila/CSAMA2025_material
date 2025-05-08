@@ -1,8 +1,9 @@
 # About the Summer School
+::: {.justify}
+The summer school is intended for researchers who have basic familiarity with the experimental technologies and their applications in biology, and who are interested in making the step from a user of bioinformatics software towards **adapting or developing their own analysis workflows**.
 
-The summer school is intended for researchers who have basic familiarity with the experimental technologies and their applications in biology, and who are interested in making the step from a user of bioinformatics software towards **adapting or developing their own analysis workflows** .
+The four practical sessions of the summer school will require you to **follow and modify scripts in the computer language R**.
 
-The four practical sessions of the summer school will require you to **follow and modify scripts in the computer language R** .
 
 ::: {.callout-tip icon="💡"}
 # Topics Covered
@@ -100,4 +101,5 @@ We plan a trip into the mountains with a light hike in the high-alpine area (wea
 ### Please let us know!
 
 If you **won’t attend the social programme**, inform us by emailing [info\@bioconductor.eu](mailto:info@bioconductor.eu).
+:::
 :::
