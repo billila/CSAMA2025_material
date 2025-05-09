@@ -59,7 +59,7 @@ During the hands-on labs, you will work at your own pace in small groups, with e
 Please bring your own laptop with:
 
 -   The latest version of **R** (4.3.x)
--   **Bioconductor 3.18** installed
+-   **Bioconductor 3.21** installed
 -   Admin rights on your machine
 -   ≥ **8 GB RAM**
 -   ≥ **20 GB free disk space**
