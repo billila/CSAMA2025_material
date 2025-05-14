@@ -58,8 +58,8 @@ During the hands-on labs, you will work at your own pace in small groups, with e
 
 Please bring your own laptop with:
 
--   The latest version of **R** (4.3.x)
--   **Bioconductor 3.18** installed
+-   The **latest** version of **R** (4.5.x)
+-   **Bioconductor 3.21** installed
 -   Admin rights on your machine
 -   ≥ **8 GB RAM**
 -   ≥ **20 GB free disk space**
@@ -70,6 +70,11 @@ Please bring your own laptop with:
 
 Please make sure to set up your system **before** arrival.\
 Internet connections at the venue may be slow or unreliable.
+
+Because of the range of topics covered in the course you will need to download 
+a large number of packages, so it is really helpful to do this in advance.
+
+**Instructions will be available soon!** 
 :::
 
 ## Social Programme
