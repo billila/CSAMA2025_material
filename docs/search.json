@@ -362,5 +362,26 @@
     "title": "Day 1",
     "section": "📘 Transcriptomics: biology of transcription, quantification, batch effects and QC",
     "text": "📘 Transcriptomics: biology of transcription, quantification, batch effects and QC"
+  },
+  {
+    "objectID": "lectures/day1.html#Regression",
+    "href": "lectures/day1.html#Regression",
+    "title": "Day 1",
+    "section": "📘 Regression: power, identifiability, diagnostics",
+    "text": "📘 Regression: power, identifiability, diagnostics"
+  },
+  {
+    "objectID": "lectures/day1.html#multiple-testing",
+    "href": "lectures/day1.html#multiple-testing",
+    "title": "Day 1",
+    "section": "📘 Statistical testing and multiple hypothesess",
+    "text": "📘 Statistical testing and multiple hypothesess"
+  },
+  {
+    "objectID": "lectures/day1.html#r-and-bioconductor-basics",
+    "href": "lectures/day1.html#r-and-bioconductor-basics",
+    "title": "Day 1",
+    "section": "🧪 R and Bioconductor basics",
+    "text": "🧪 R and Bioconductor basics\n\n\n\n🔹 1.1 Introduction to R\n\n\n\n\n🔹 1.2 Introduction to tidy R\n\n\n\n\n🔹 1.3 Starting an analysis\n\n\n\n\n🔹 1.4 Data Representations\n\n\n\n\n🔹 1.5 Annotation"
   }
 ]
