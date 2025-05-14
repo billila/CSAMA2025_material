@@ -6,11 +6,11 @@ format: html
 
 ## 📘 Introduction to Bioconductor
 
-[View slides](../slides/day1_intro.html)
+<iframe src="../slides/CSAMA_2024_BiocIntro.pdf" width="100%" height="600px"></iframe>
 
-```{=html}
-<iframe src="../slides/day1_intro.html" width="100%" height="500px"></iframe>
-```
+## 📘 Transcriptomics: biology of transcription, quantification, batch effects and QC {#transcriptomics}
+
+<iframe src="../slides/CSAMA_RNA-seq_intro.pdf" width="100%" height="600px"></iframe>
 
 <!-- 08:30-09:15	Lecture: Introduction to Bioconductor -->
 <!-- 09:15-10:00	Lecture: Transcriptomics: biology of transcription, quantification, batch effects and QC -->
