@@ -6,20 +6,41 @@ format: html
 
 ## 📘 Introduction to Bioconductor
 
-[View slides](../slides/day1_intro.html)
+<iframe src="../slides/CSAMA_2024_BiocIntro.pdf" width="100%" height="600px"></iframe>
 
-```{=html}
-<iframe src="../slides/day1_intro.html" width="100%" height="500px"></iframe>
-```
+## 📘 Transcriptomics: biology of transcription, quantification, batch effects and QC {#transcriptomics}
 
-<!-- 08:30-09:15	Lecture: Introduction to Bioconductor -->
-<!-- 09:15-10:00	Lecture: Transcriptomics: biology of transcription, quantification, batch effects and QC -->
-<!-- 10:00-10:30	~~~ Coffee ~~~ -->
-<!-- 10:30-11:15	Lecture: Regression: power, identifiability, diagnostics -->
-<!-- 11:15-12:00	Lecture: Statistical testing and multiple hypotheses -->
-<!-- 12:00-14:00	~~~ Lunch break ~~~ -->
-<!-- 14:00-15:30	Lab: R and Bioconductor basics -->
-<!-- 15:30-16:00	~~~ Coffee ~~~ -->
-<!-- 16:00-17:00	Lab continuation -->
-<!-- 17:00-17:30	Intro to Project Groups (optional) -->
-<!-- 20:10-22:00	Evening session: Project groups and discussions -->
+<iframe src="../slides/CSAMA_RNA-seq_intro.pdf" width="100%" height="600px"></iframe>
+
+## 📘 Regression: power, identifiability, diagnostics {#Regression}
+
+<iframe src="../slides/Monday-regression.pdf" width="100%" height="600px"></iframe>
+
+## 📘 Statistical testing and multiple hypothesess {#multiple-testing}
+
+<iframe src="../slides/2024-HypothesisTesting-Huber.pdf" width="100%" height="600px"></iframe>
+
+## 🧪 R and Bioconductor basics {#r-and-bioconductor-basics}
+
+<iframe src="../slides/labs/lab-1-intro-to-r-bioc.html" width="100%" height="600px"></iframe>
+
+### 🔹 1.1 Introduction to R
+
+<iframe src="../slides/labs/Lab1.1_Introduction to R.html" width="100%" height="600px"></iframe>
+
+### 🔹 1.2 Introduction to tidy R
+
+<iframe src="../slides/labs/Lab1.2_IntroductiontotidyR.html" width="100%" height="600px"></iframe>
+
+### 🔹 1.3 Starting an analysis
+
+<iframe src="../slides/labs/Lab1.3_Startingananalysis.html" width="100%" height="600px"></iframe>
+
+
+### 🔹 1.4 Data Representations
+
+<iframe src="../slides/labs/Lab1.4_DataRepresentations.html" width="100%" height="600px"></iframe>
+
+### 🔹 1.5 Annotation 
+
+<iframe src="../slides/labs/Lab1.5_AnnotationResources.html" width="100%" height="600px"></iframe>

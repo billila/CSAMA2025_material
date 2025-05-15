@@ -33,12 +33,12 @@
 | Time        | Content                                                                 |
 |-------------|-------------------------------------------------------------------------|
 | 08:30-09:15 | **Lecture:** [Introduction to Bioconductor](lectures/day1.qmd#introduction-to-bioconductor) |
-| 09:15-10:00 | **Lecture:** Transcriptomics: biology of transcription, quantification, batch effects and QC |
+| 09:15-10:00 | **Lecture:** [Transcriptomics: biology of transcription, quantification, batch effects and QC](lectures/day1.qmd#transcriptomics) |
 | 10:00-10:30 | *~~~ Coffee ~~~*                                                        |
-| 10:30-11:15 | **Lecture:** Regression: power, identifiability, diagnostics            |
-| 11:15-12:00 | **Lecture:** Statistical testing and multiple hypotheses                |
+| 10:30-11:15 | **Lecture:** [Regression: power, identifiability, diagnostics](lectures/day1.qmd#Regression)            |
+| 11:15-12:00 | **Lecture:** [Statistical testing and multiple hypotheses](lectures/day1.qmd#multiple-testing)                    |
 | 12:00-14:00 | *~~~ Lunch break ~~~*                                                   |
-| 14:00-15:30 | **Lab:** R and Bioconductor basics                                      |
+| 14:00-15:30 | **Lab:** [R and Bioconductor basics](lectures/day1.qmd#r-and-bioconductor-basics)                                     |
 | 15:30-16:00 | *~~~ Coffee ~~~*                                                        |
 | 16:00-17:00 | **Lab continuation**                                                    |
 | 17:00-17:30 | **Intro to Project Groups (optional)**                                  |
